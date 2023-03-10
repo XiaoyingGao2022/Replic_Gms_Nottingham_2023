@@ -1,0 +1,65 @@
+---
+title: "Reading"
+output:
+---
+
+```{r setup}
+pacman::p_load(readr,haven)
+```
+
+Source
+```{r}
+bscaufrpanelt <- read_delim("Original replication package/data/source/bscaufrpanelt.txt", 
+    NULL)
+
+nomination_agreg_19922008 <- read_delim("Original replication package/data/source/nomination_agreg_19922008.txt", 
+    NULL)
+
+distin <- read_delim("Original replication package/data/source/distin.txt", 
+    NULL)
+
+bscdegau <- read_delim("Original replication package/data/source/bscdegau.txt", 
+    NULL)
+
+```
+
+
+Text
+```{r}
+bregagregchoice <- read_delim("Original replication package/data/export_txt/bregagregchoice.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregauinma3 <- read_delim("Original replication package/data/export_txt/bregauinma3.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregautjinm12_last10 <- read_delim("Original replication package/data/export_txt/bregautjinm12_last10.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregautjinma3 <- read_delim("Original replication package/data/export_txt/bregautjinma3.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregautjinma3_ivR3 <- read_delim("Original replication package/data/export_txt/bregautjinma3_ivR3.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregautjinma3_last10 <- read_delim("Original replication package/data/export_txt/bregautjinma3_last10.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregautjinma3_no1st10 <- read_delim("Original replication package/data/export_txt/bregautjinma3_no1st10.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+bregautjint1_last10 <- read_delim("Original replication package/data/export_txt/bregautjint1_last10.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+breglocchoice <- read_delim("Original replication package/data/export_txt/breglocchoice.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+```
+

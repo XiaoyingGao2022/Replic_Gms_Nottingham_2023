@@ -1,0 +1,30 @@
+---
+title: "Pre-processer for India"
+author: "Giulio G. Cantone"
+date: "2023-03-10"
+output:
+---
+
+```{r setup, include=FALSE}
+pacman::p_load(tidyverse,
+               haven)
+```
+
+```{r}
+TB_data <- read_dta("Repli_packs/tb_india_150781-V1/TB_data.dta")
+Merged <- read_dta("Repli_packs/tb_india_150781-V1/new_patient_data_merged.dta")
+To_append <- read_dta("Repli_packs/tb_india_150781-V1/new_patient_data_toappend.dta")
+
+```
+
+
+```{r}
+TB_data %>%
+  naniar::miss_var_summary() %>%
+  ggplot() +
+  geom_histogram(aes(x = pct_miss),
+                 bins = 100) +
+  xlab("% of missing value") +
+  theme_test(base_size = 15)
+```
+

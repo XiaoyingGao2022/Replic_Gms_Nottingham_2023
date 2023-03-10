@@ -1,0 +1,40 @@
+---
+title: "Preprocesser Hobo"
+author: "Giulio G. Cantone"
+date: "2023-03-10"
+output:
+---
+
+```{r setup, include=FALSE}
+pacman::p_load(tidyverse,
+               readr)
+```
+
+```{r}
+friendliness <- read_csv("Repli_packs/hobo economicus replication package/data/friendliness.csv")
+
+metrovisitslog <- read_csv("Repli_packs/hobo economicus replication package/data/metrovisitslog.csv")
+
+passersby <- read_csv("Repli_packs/hobo economicus replication package/data/passersby.csv")
+
+receipts <- read_csv("Repli_packs/hobo economicus replication package/data/receipts.csv")
+
+service <- read_csv("Repli_packs/hobo economicus replication package/data/service.csv")
+
+shuttle <- read_csv("Repli_packs/hobo economicus replication package/data/shuttle.csv")
+```
+```{r}
+metrovisitslog %>%
+  summarise(
+    sum = sum(panhandlers),
+    avg = mean(panhandlers),
+    var = var(panhandlers)
+  )
+
+metrovisitslog %>%
+  ggplot() +
+  geom_bar(aes(panhandlers %>% as.factor())) +
+  xlab("Beggars") +
+  theme_test(base_size = 14)
+```
+

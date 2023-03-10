@@ -1,0 +1,702 @@
+passerbyid,date,passresp1,passresp2,passresp3,passresp4,passresp5,metro
+1,5/19/2017,0,0,1,1,1,Archives
+2,5/19/2017,0,1,0,0,0,Archives
+3,5/19/2017,0,0,1,1,0,Archives
+4,5/19/2017,1,0,0,0,0,Archives
+5,6/27/2017,0,0,1,1,1,Archives
+6,6/27/2017,0,0,1,1,1,Archives
+7,6/27/2017,0,1,0,0,0,Archives
+8,6/27/2017,0,1,0,0,0,Archives
+9,6/27/2017,0,0,1,1,1,Archives
+10,6/30/2017,0,0,1,1,1,Archives
+11,6/30/2017,0,1,0,0,0,Archives
+12,6/30/2017,0,0,1,1,1,Archives
+13,6/30/2017,1,0,0,0,0,Archives
+14,6/30/2017,0,0,1,1,0,Archives
+15,6/30/2017,1,0,0,0,0,Archives
+16,3/22/2017,1,0,0,0,0,Ballston
+17,3/22/2017,0,0,1,0,0,Ballston
+18,3/22/2017,0,1,0,0,0,Ballston
+19,3/22/2017,0,0,1,1,1,Ballston
+20,3/22/2017,0,0,1,1,1,Ballston
+21,3/22/2017,0,0,1,1,0,Ballston
+22,4/21/2017,0,0,1,0,0,Ballston
+23,4/21/2017,1,0,0,0,0,Ballston
+24,4/21/2017,0,0,1,1,1,Ballston
+25,4/21/2017,1,0,0,0,0,Ballston
+26,4/21/2017,0,1,0,0,0,Ballston
+27,4/21/2017,0,0,1,1,0,Ballston
+28,4/21/2017,0,0,1,1,1,Ballston
+29,6/16/2017,0,0,1,1,1,Ballston
+30,6/16/2017,0,0,1,1,0,Ballston
+31,6/16/2017,1,0,0,0,0,Ballston
+32,6/16/2017,0,1,0,0,0,Ballston
+33,6/16/2017,0,0,1,1,0,Ballston
+34,6/26/2017,0,0,1,1,0,Ballston
+35,6/26/2017,1,0,0,0,0,Ballston
+36,6/26/2017,0,0,1,1,0,Ballston
+37,6/26/2017,1,0,0,0,0,Ballston
+38,3/20/2017,0,1,0,0,0,Farragut North
+39,3/20/2017,0,0,1,1,1,Farragut North
+40,3/20/2017,1,0,0,0,0,Farragut North
+41,3/20/2017,0,0,1,0,0,Farragut North
+42,3/27/2017,0,1,0,0,0,Farragut North
+43,3/27/2017,0,0,1,1,0,Farragut North
+44,3/27/2017,0,0,1,0,0,Farragut North
+45,5/8/2017,1,0,0,0,0,Farragut North
+46,5/8/2017,0,0,1,1,0,Farragut North
+47,5/8/2017,0,0,1,1,1,Farragut North
+48,5/8/2017,0,1,0,0,0,Farragut North
+49,6/14/2017,0,0,1,1,0,Farragut North
+50,6/14/2017,0,0,1,1,0,Farragut North
+51,6/14/2017,0,0,1,0,0,Farragut North
+52,6/14/2017,0,0,1,1,1,Farragut North
+53,6/20/2017,0,0,1,1,0,Farragut North
+54,6/20/2017,0,0,1,1,1,Farragut North
+55,6/20/2017,1,0,0,0,0,Farragut North
+56,6/20/2017,1,0,0,0,0,Farragut North
+57,6/20/2017,0,1,0,0,0,Farragut North
+58,3/27/2017,0,0,1,1,1,Farragut West
+59,3/27/2017,0,0,1,0,0,Farragut West
+60,3/27/2017,0,1,0,0,0,Farragut West
+61,3/27/2017,0,0,1,1,0,Farragut West
+62,3/27/2017,1,0,0,0,0,Farragut West
+63,4/24/2017,1,0,0,0,0,Farragut West
+64,4/24/2017,1,0,0,0,0,Farragut West
+65,4/24/2017,0,0,1,1,1,Farragut West
+66,4/24/2017,0,0,1,0,0,Farragut West
+67,5/8/2017,0,0,1,1,0,Farragut West
+68,5/8/2017,1,0,0,0,0,Farragut West
+69,5/8/2017,1,0,0,0,0,Farragut West
+70,5/8/2017,0,0,1,1,1,Farragut West
+71,5/8/2017,0,1,0,0,0,Farragut West
+72,5/8/2017,0,0,1,1,0,Farragut West
+73,6/14/2017,0,0,1,1,0,Farragut West
+74,6/14/2017,1,0,0,0,0,Farragut West
+75,6/14/2017,0,0,1,0,0,Farragut West
+76,6/14/2017,1,0,0,0,0,Farragut West
+77,6/20/2017,1,0,0,0,0,Farragut West
+78,6/20/2017,0,0,1,1,1,Farragut West
+79,6/20/2017,0,0,1,1,1,Farragut West
+80,6/20/2017,0,0,1,1,1,Farragut West
+81,6/20/2017,0,0,1,1,0,Farragut West
+82,3/24/2017,0,0,1,1,0,Federal Triangle
+83,3/24/2017,0,1,0,0,0,Federal Triangle
+84,3/24/2017,0,0,1,1,0,Federal Triangle
+85,3/24/2017,1,0,0,0,0,Federal Triangle
+86,3/24/2017,0,0,1,1,1,Federal Triangle
+87,3/24/2017,0,0,1,1,0,Federal Triangle
+88,4/1/2017,1,0,0,0,0,Federal Triangle
+89,4/1/2017,0,1,0,0,0,Federal Triangle
+90,4/1/2017,0,0,1,1,1,Federal Triangle
+91,4/1/2017,0,0,1,1,0,Federal Triangle
+92,4/1/2017,0,1,0,0,0,Federal Triangle
+93,4/1/2017,0,0,1,1,1,Federal Triangle
+94,5/1/2017,0,1,0,0,0,Federal Triangle
+95,5/1/2017,1,0,0,0,0,Federal Triangle
+96,5/1/2017,0,1,0,0,0,Federal Triangle
+97,5/1/2017,0,0,1,1,1,Federal Triangle
+98,5/1/2017,1,0,0,0,0,Federal Triangle
+99,5/9/2017,0,0,1,1,1,Federal Triangle
+100,5/9/2017,1,0,0,0,0,Federal Triangle
+101,5/9/2017,0,0,1,1,0,Federal Triangle
+102,5/9/2017,0,1,0,0,0,Federal Triangle
+103,6/30/2017,0,0,1,1,1,Federal Triangle
+104,6/30/2017,0,0,1,1,1,Federal Triangle
+105,6/30/2017,0,1,0,0,0,Federal Triangle
+106,6/30/2017,0,1,0,0,0,Federal Triangle
+107,5/8/2017,0,0,1,1,0,Foggy Bottom
+108,5/8/2017,0,0,1,1,1,Foggy Bottom
+109,5/8/2017,0,0,1,1,0,Foggy Bottom
+110,5/8/2017,0,1,0,0,0,Foggy Bottom
+111,5/8/2017,1,0,0,0,0,Foggy Bottom
+112,5/8/2017,0,0,1,1,0,Foggy Bottom
+113,5/17/2017,1,0,0,0,0,Foggy Bottom
+114,5/17/2017,0,0,1,1,0,Foggy Bottom
+115,5/17/2017,0,0,1,1,1,Foggy Bottom
+116,5/17/2017,0,0,1,1,1,Foggy Bottom
+117,5/17/2017,1,0,0,0,0,Foggy Bottom
+118,5/17/2017,0,0,1,1,1,Foggy Bottom
+119,5/17/2017,1,0,0,0,0,Foggy Bottom
+120,6/14/2017,0,1,0,0,0,Foggy Bottom
+121,6/14/2017,1,0,0,0,0,Foggy Bottom
+122,6/14/2017,1,0,0,0,0,Foggy Bottom
+123,6/14/2017,0,0,1,1,1,Foggy Bottom
+124,6/14/2017,0,1,0,0,0,Foggy Bottom
+125,6/28/2017,0,0,1,1,1,Foggy Bottom
+126,6/28/2017,0,0,1,1,0,Foggy Bottom
+127,6/28/2017,0,0,1,1,0,Foggy Bottom
+128,6/28/2017,0,0,1,1,1,Foggy Bottom
+129,6/28/2017,0,0,1,1,0,Foggy Bottom
+130,3/15/2017,0,0,1,1,1,Gallery Place
+131,3/15/2017,1,0,0,0,0,Gallery Place
+132,3/15/2017,0,0,1,1,0,Gallery Place
+133,3/15/2017,0,1,0,0,0,Gallery Place
+134,3/15/2017,1,0,0,0,0,Gallery Place
+135,4/3/2017,0,0,1,1,1,Gallery Place
+136,4/3/2017,0,0,1,1,0,Gallery Place
+137,4/3/2017,1,0,0,0,0,Gallery Place
+138,4/3/2017,0,1,0,0,0,Gallery Place
+139,4/3/2017,1,0,0,0,0,Gallery Place
+140,5/15/2017,1,0,0,0,0,Gallery Place
+141,5/15/2017,0,0,1,1,1,Gallery Place
+142,5/15/2017,1,0,0,0,0,Gallery Place
+143,5/15/2017,0,1,0,0,0,Gallery Place
+144,5/15/2017,0,0,1,1,0,Gallery Place
+145,6/23/2017,0,0,1,1,1,Gallery Place
+146,6/23/2017,0,0,1,1,1,Gallery Place
+147,6/23/2017,1,0,0,0,0,Gallery Place
+148,6/23/2017,0,0,1,1,0,Gallery Place
+149,6/23/2017,0,1,0,0,0,Gallery Place
+150,6/23/2017,0,0,1,1,0,Gallery Place
+151,6/27/2017,1,0,0,0,0,Gallery Place
+152,6/27/2017,0,0,1,1,1,Gallery Place
+153,6/27/2017,0,0,1,1,1,Gallery Place
+154,6/27/2017,0,0,1,1,0,Gallery Place
+155,5/19/2017,0,0,1,1,1,Georgetown
+156,5/19/2017,0,0,1,1,1,Georgetown
+157,5/19/2017,0,1,0,0,0,Georgetown
+158,5/19/2017,0,0,1,1,0,Georgetown
+159,5/19/2017,0,0,1,1,1,Georgetown
+160,5/19/2017,1,0,0,0,0,Georgetown
+161,5/19/2017,0,1,0,0,0,Georgetown
+162,6/26/2017,0,0,1,1,1,Georgetown
+163,6/26/2017,0,0,1,1,1,Georgetown
+164,6/26/2017,0,0,1,1,0,Georgetown
+165,6/26/2017,1,0,0,0,0,Georgetown
+166,6/26/2017,0,0,1,1,1,Georgetown
+167,6/26/2017,0,0,1,1,1,Georgetown
+168,6/26/2017,0,0,1,1,0,Georgetown
+169,6/26/2017,1,0,0,0,0,Georgetown
+170,5/1/2017,0,0,1,1,0,L'Enfant Plaza
+171,5/1/2017,0,0,1,1,0,L'Enfant Plaza
+172,5/1/2017,1,0,0,0,0,L'Enfant Plaza
+173,5/1/2017,0,0,1,1,1,L'Enfant Plaza
+174,5/1/2017,0,1,0,0,0,L'Enfant Plaza
+175,5/1/2017,0,0,1,1,1,L'Enfant Plaza
+176,5/15/2017,0,1,0,0,0,L'Enfant Plaza
+177,5/15/2017,0,0,1,1,1,L'Enfant Plaza
+178,5/15/2017,0,0,1,1,0,L'Enfant Plaza
+179,5/15/2017,1,0,0,0,0,L'Enfant Plaza
+180,5/15/2017,0,0,1,1,0,L'Enfant Plaza
+181,6/16/2017,0,0,1,1,0,L'Enfant Plaza
+182,6/16/2017,0,1,0,0,0,L'Enfant Plaza
+183,6/16/2017,1,0,0,0,0,L'Enfant Plaza
+184,6/16/2017,0,0,1,1,0,L'Enfant Plaza
+185,6/16/2017,1,0,0,0,0,L'Enfant Plaza
+186,6/16/2017,0,0,1,1,1,L'Enfant Plaza
+187,6/27/2017,0,0,1,1,0,L'Enfant Plaza
+188,6/27/2017,0,0,1,1,1,L'Enfant Plaza
+189,6/27/2017,1,0,0,0,0,L'Enfant Plaza
+190,6/27/2017,0,0,1,1,0,L'Enfant Plaza
+191,3/13/2017,1,0,0,0,0,McPherson Square
+192,3/13/2017,0,1,0,0,0,McPherson Square
+193,3/13/2017,1,0,0,0,0,McPherson Square
+194,3/13/2017,0,0,1,1,0,McPherson Square
+195,3/13/2017,0,1,0,0,0,McPherson Square
+196,3/13/2017,0,0,1,1,1,McPherson Square
+197,3/13/2017,0,0,1,1,0,McPherson Square
+198,3/20/2017,1,0,0,0,0,McPherson Square
+199,3/20/2017,0,1,0,0,0,McPherson Square
+200,3/20/2017,0,0,1,0,0,McPherson Square
+201,3/20/2017,0,0,1,1,0,McPherson Square
+202,3/20/2017,1,0,0,0,0,McPherson Square
+203,3/27/2017,0,0,1,1,0,McPherson Square
+204,3/27/2017,0,1,0,0,0,McPherson Square
+205,3/27/2017,0,0,1,1,1,McPherson Square
+206,3/27/2017,0,1,0,0,0,McPherson Square
+207,4/1/2017,0,0,1,1,1,McPherson Square
+208,4/1/2017,0,0,1,1,0,McPherson Square
+209,4/1/2017,0,1,0,0,0,McPherson Square
+210,4/1/2017,0,0,1,0,0,McPherson Square
+211,4/1/2017,1,0,0,0,0,McPherson Square
+212,6/20/2017,0,0,1,1,1,McPherson Square
+213,6/20/2017,0,0,1,1,0,McPherson Square
+214,6/20/2017,0,0,1,0,0,McPherson Square
+215,6/20/2017,1,0,0,0,0,McPherson Square
+216,6/20/2017,0,0,1,1,0,McPherson Square
+217,3/15/2017,0,0,1,1,1,Metro Center
+218,3/15/2017,1,0,0,0,0,Metro Center
+219,3/15/2017,0,0,1,1,0,Metro Center
+220,3/15/2017,0,0,1,1,0,Metro Center
+221,3/15/2017,0,1,0,0,0,Metro Center
+222,3/15/2017,0,1,0,0,0,Metro Center
+223,3/24/2017,0,0,1,1,1,Metro Center
+224,3/24/2017,1,0,0,0,0,Metro Center
+225,3/24/2017,0,1,0,0,0,Metro Center
+226,3/24/2017,0,0,1,1,0,Metro Center
+227,3/24/2017,0,0,1,1,1,Metro Center
+228,3/24/2017,1,0,0,0,0,Metro Center
+229,3/24/2017,1,0,0,0,0,Metro Center
+230,3/24/2017,0,0,1,1,1,Metro Center
+231,3/24/2017,0,0,1,1,0,Metro Center
+232,3/24/2017,0,1,0,0,0,Metro Center
+233,3/24/2017,0,0,1,1,0,Metro Center
+234,4/1/2017,1,0,0,0,0,Metro Center
+235,4/1/2017,0,0,1,1,1,Metro Center
+236,4/1/2017,0,0,1,1,1,Metro Center
+237,4/1/2017,0,1,0,0,0,Metro Center
+238,4/1/2017,0,0,1,1,1,Metro Center
+239,4/1/2017,0,0,1,1,1,Metro Center
+240,4/1/2017,0,0,1,1,0,Metro Center
+241,4/3/2017,1,0,0,0,0,Metro Center
+242,4/3/2017,0,0,1,1,1,Metro Center
+243,4/3/2017,0,0,1,1,0,Metro Center
+244,4/3/2017,0,0,1,1,1,Metro Center
+245,4/3/2017,1,0,0,0,0,Metro Center
+246,6/28/2017,0,0,1,1,0,Metro Center
+247,6/28/2017,0,1,0,0,0,Metro Center
+248,6/28/2017,0,0,1,1,1,Metro Center
+249,6/28/2017,1,0,0,0,0,Metro Center
+250,6/28/2017,0,0,1,1,0,Metro Center
+251,6/28/2017,1,0,0,0,0,Metro Center
+252,6/28/2017,0,0,1,0,0,Metro Center
+253,3/24/2017,0,1,0,0,0,Smithsonian
+254,3/24/2017,0,1,0,0,0,Smithsonian
+255,3/24/2017,0,0,1,1,1,Smithsonian
+256,3/24/2017,0,0,1,1,0,Smithsonian
+257,4/1/2017,1,0,0,0,0,Smithsonian
+258,4/1/2017,0,0,1,1,1,Smithsonian
+259,4/1/2017,0,1,0,0,0,Smithsonian
+260,4/1/2017,0,0,1,1,1,Smithsonian
+261,4/1/2017,0,0,1,1,0,Smithsonian
+262,4/1/2017,0,0,1,1,1,Smithsonian
+263,5/9/2017,0,0,1,1,1,Smithsonian
+264,5/9/2017,0,0,1,1,1,Smithsonian
+265,5/9/2017,1,0,0,0,0,Smithsonian
+266,5/9/2017,0,1,0,0,0,Smithsonian
+267,5/9/2017,0,0,1,1,0,Smithsonian
+268,5/9/2017,0,0,1,1,0,Smithsonian
+269,6/14/2017,0,0,1,1,0,Smithsonian
+270,6/14/2017,0,1,0,0,0,Smithsonian
+271,6/14/2017,0,0,1,1,1,Smithsonian
+272,6/14/2017,1,0,0,0,0,Smithsonian
+273,6/14/2017,0,0,1,1,0,Smithsonian
+274,10/26/2017,0,0,1,1,0,Capital South
+275,10/26/2017,0,0,1,1,1,Capital South
+276,10/26/2017,0,0,1,0,0,Capital South
+277,10/26/2017,0,0,1,1,1,Capital South
+278,10/26/2017,1,0,0,0,0,Capital South
+279,10/26/2017,0,0,1,1,0,Capital South
+280,10/26/2017,1,0,0,0,0,Capital South
+281,10/26/2017,0,1,0,0,0,Capital South
+282,10/26/2017,1,0,0,0,0,Capital South
+283,10/26/2017,0,0,1,0,0,Capital South
+284,10/26/2017,0,0,1,1,0,Capital South
+285,10/26/2017,0,0,1,1,1,Federal Center
+286,10/26/2017,1,0,0,0,0,Federal Center
+287,10/26/2017,0,0,1,1,0,Federal Center
+288,10/26/2017,0,0,1,0,0,Federal Center
+289,10/26/2017,1,0,0,0,0,Federal Center
+290,10/26/2017,0,0,1,1,1,Federal Center
+291,10/26/2017,0,0,1,1,0,Federal Center
+292,10/26/2017,1,0,0,0,0,Federal Center
+293,10/26/2017,0,0,1,1,1,Federal Center
+294,10/26/2017,0,0,1,0,0,Federal Center
+295,10/26/2017,0,0,1,1,0,Federal Center
+296,10/26/2017,0,0,1,1,1,Federal Center
+297,10/26/2017,0,0,1,1,1,Crystal City
+298,10/26/2017,0,1,0,0,0,Crystal City
+299,10/26/2017,1,0,0,0,0,Crystal City
+300,10/26/2017,0,0,1,1,0,Crystal City
+301,10/26/2017,0,0,1,1,0,Crystal City
+302,10/26/2017,0,0,1,1,1,Crystal City
+303,10/26/2017,0,0,1,1,1,Crystal City
+304,10/26/2017,1,0,0,0,0,Crystal City
+305,10/26/2017,0,0,1,0,0,Crystal City
+306,10/26/2017,0,0,1,1,0,Crystal City
+307,10/26/2017,0,0,1,0,0,Pentagon City
+308,10/26/2017,0,0,1,1,1,Pentagon City
+309,10/26/2017,1,0,0,0,0,Pentagon City
+310,10/26/2017,0,0,1,1,1,Pentagon City
+311,10/26/2017,1,0,0,0,0,Pentagon City
+312,10/26/2017,0,0,1,1,0,Pentagon City
+313,10/26/2017,0,0,1,1,0,Pentagon City
+314,10/26/2017,1,0,0,0,0,Pentagon City
+315,10/26/2017,0,0,1,0,0,Pentagon City
+316,10/26/2017,0,0,1,1,0,Pentagon City
+317,10/26/2017,0,0,1,1,1,Pentagon City
+318,10/26/2017,1,0,0,0,0,Pentagon City
+319,10/26/2017,1,0,0,0,0,Pentagon
+320,10/26/2017,0,1,0,0,0,Pentagon
+321,10/26/2017,0,0,1,1,0,Pentagon
+322,10/26/2017,0,0,1,1,0,Pentagon
+323,10/26/2017,1,0,0,0,0,Pentagon
+324,10/26/2017,0,0,1,1,1,Pentagon
+325,10/26/2017,0,0,1,1,0,Pentagon
+326,10/26/2017,0,0,1,0,0,Pentagon
+327,10/26/2017,0,0,1,1,0,Pentagon
+328,10/26/2017,0,1,0,0,0,Pentagon
+329,10/26/2017,0,0,1,1,0,Pentagon
+330,10/26/2017,0,0,1,1,1,Pentagon
+331,10/26/2017,0,0,1,1,0,Pentagon
+332,10/26/2017,0,0,1,1,0,Arlington Cemetery
+333,10/26/2017,1,0,0,0,0,Arlington Cemetery
+334,10/26/2017,0,0,1,1,0,Arlington Cemetery
+335,10/26/2017,0,0,1,1,1,Arlington Cemetery
+336,10/26/2017,0,0,1,1,0,Arlington Cemetery
+337,10/26/2017,0,0,1,1,1,Arlington Cemetery
+338,10/26/2017,0,0,1,0,0,Arlington Cemetery
+339,10/26/2017,0,0,1,1,0,Dupont Circle
+340,10/26/2017,0,0,1,1,0,Dupont Circle
+341,10/26/2017,1,0,0,0,0,Dupont Circle
+342,10/26/2017,0,0,1,1,0,Dupont Circle
+343,10/26/2017,0,1,0,0,0,Dupont Circle
+344,10/26/2017,0,0,1,1,1,Dupont Circle
+345,10/26/2017,0,0,1,1,0,Dupont Circle
+346,10/26/2017,1,0,0,0,0,Dupont Circle
+347,10/26/2017,0,1,0,0,0,Dupont Circle
+348,10/26/2017,0,0,1,0,0,Dupont Circle
+349,10/26/2017,1,0,0,0,0,Dupont Circle
+350,10/26/2017,0,0,1,1,1,Dupont Circle
+351,10/26/2017,0,1,0,0,0,Dupont Circle
+352,10/26/2017,1,0,0,0,0,Dupont Circle
+353,10/26/2017,1,0,0,0,0,Rosslyn
+354,10/26/2017,0,0,1,1,0,Rosslyn
+355,10/26/2017,0,0,1,1,0,Rosslyn
+356,10/26/2017,0,0,1,1,1,Rosslyn
+357,10/26/2017,1,0,0,0,0,Rosslyn
+358,10/26/2017,1,0,0,0,0,Rosslyn
+359,10/26/2017,0,0,1,1,0,Rosslyn
+360,10/26/2017,0,1,0,0,0,Rosslyn
+361,10/26/2017,0,0,1,0,0,Rosslyn
+362,10/26/2017,0,0,1,1,1,Rosslyn
+363,10/26/2017,0,0,1,0,0,Rosslyn
+364,10/26/2017,0,0,1,1,1,Rosslyn
+365,10/26/2017,0,0,1,1,1,Courthouse
+366,10/26/2017,0,0,1,1,0,Courthouse
+367,10/26/2017,1,0,0,0,0,Courthouse
+368,10/26/2017,0,0,1,1,1,Courthouse
+369,10/26/2017,0,0,1,1,0,Courthouse
+370,10/26/2017,1,0,0,0,0,Courthouse
+371,10/26/2017,0,1,0,0,0,Courthouse
+372,10/26/2017,0,0,1,0,0,Courthouse
+373,10/26/2017,0,0,1,0,0,Courthouse
+374,10/26/2017,0,0,1,1,1,Courthouse
+375,10/26/2017,0,1,0,0,0,Courthouse
+376,10/26/2017,0,0,1,1,0,Clarendon
+377,10/26/2017,0,0,1,1,1,Clarendon
+378,10/26/2017,1,0,0,0,0,Clarendon
+379,10/26/2017,1,0,0,0,0,Clarendon
+380,10/26/2017,0,1,0,0,0,Clarendon
+381,10/26/2017,0,0,1,1,1,Clarendon
+382,10/26/2017,0,0,1,1,0,Clarendon
+383,10/26/2017,0,0,1,1,0,Clarendon
+384,10/26/2017,1,0,0,0,0,Clarendon
+385,10/26/2017,1,0,0,0,0,Clarendon
+386,10/26/2017,0,0,1,1,0,Clarendon
+387,10/26/2017,0,0,1,1,0,Clarendon
+388,10/26/2017,0,0,1,0,0,Clarendon
+389,10/26/2017,1,0,0,0,0,Clarendon
+390,10/26/2017,0,0,1,1,0,Clarendon
+391,10/26/2017,0,0,1,0,0,Virginia Square
+392,10/26/2017,0,0,1,1,0,Virginia Square
+393,10/26/2017,0,0,1,1,1,Virginia Square
+394,10/26/2017,0,0,1,1,1,Virginia Square
+395,10/26/2017,1,0,0,0,0,Virginia Square
+396,10/26/2017,0,0,1,1,1,Virginia Square
+397,10/26/2017,0,1,0,0,0,Virginia Square
+398,10/26/2017,0,0,1,1,0,Virginia Square
+399,10/26/2017,0,0,1,1,1,Virginia Square
+400,10/26/2017,0,0,1,0,0,Virginia Square
+401,10/26/2017,0,0,1,1,0,Virginia Square
+402,10/26/2017,0,0,1,1,0,Virginia Square
+403,10/26/2017,1,0,0,0,0,Virginia Square
+404,10/26/2017,1,0,0,0,0,Virginia Square
+405,10/27/2017,0,0,1,1,0,Navy Yard
+406,10/27/2017,0,0,1,0,0,Navy Yard
+407,10/27/2017,1,0,0,0,0,Navy Yard
+408,10/27/2017,0,0,1,1,0,Navy Yard
+409,10/27/2017,0,0,1,1,0,Navy Yard
+410,10/27/2017,1,0,0,0,0,Navy Yard
+411,10/27/2017,0,1,0,0,0,Navy Yard
+412,10/27/2017,0,0,1,1,1,Navy Yard
+413,10/27/2017,1,0,0,0,0,Navy Yard
+414,10/27/2017,1,0,0,0,0,Navy Yard
+415,10/27/2017,0,0,1,1,0,Navy Yard
+416,10/27/2017,0,0,1,1,1,Waterfront
+417,10/27/2017,0,0,1,1,0,Waterfront
+418,10/27/2017,0,0,1,1,1,Waterfront
+419,10/27/2017,1,0,0,0,0,Waterfront
+420,10/27/2017,1,0,0,0,0,Waterfront
+421,10/27/2017,0,0,1,1,0,Waterfront
+422,10/27/2017,0,1,0,0,0,Waterfront
+423,10/27/2017,0,1,0,0,0,Waterfront
+424,10/27/2017,0,0,1,1,1,Waterfront
+425,10/27/2017,0,0,1,1,0,Waterfront
+426,10/27/2017,0,0,1,1,0,Waterfront
+427,10/27/2017,0,0,1,0,0,Rosslyn
+428,10/27/2017,0,0,1,1,0,Rosslyn
+429,10/27/2017,1,0,0,0,0,Rosslyn
+430,10/27/2017,0,1,0,0,0,Rosslyn
+431,10/27/2017,1,0,0,0,0,Rosslyn
+432,10/27/2017,0,0,1,0,0,Rosslyn
+433,10/27/2017,0,0,1,0,0,Rosslyn
+434,10/27/2017,0,1,0,0,0,Rosslyn
+435,10/27/2017,1,0,0,0,0,Rosslyn
+436,10/27/2017,1,0,0,0,0,Rosslyn
+437,10/27/2017,0,1,0,0,0,Rosslyn
+438,10/27/2017,0,0,1,1,1,Rosslyn
+439,10/27/2017,0,0,1,0,0,Rosslyn
+440,10/27/2017,0,0,1,1,0,Rosslyn
+441,10/27/2017,0,0,1,1,0,Rosslyn
+442,10/27/2017,0,0,1,1,1,Courthouse
+443,10/27/2017,1,0,0,0,0,Courthouse
+444,10/27/2017,0,0,1,1,0,Courthouse
+445,10/27/2017,0,0,1,1,1,Courthouse
+446,10/27/2017,0,0,1,1,0,Courthouse
+447,10/27/2017,1,0,0,0,0,Courthouse
+448,10/27/2017,0,0,1,1,0,Courthouse
+449,10/27/2017,1,0,0,0,0,Courthouse
+450,10/27/2017,1,0,0,0,0,Courthouse
+451,10/27/2017,0,0,1,1,1,Courthouse
+452,10/27/2017,0,0,1,1,0,Courthouse
+453,10/27/2017,0,1,0,0,0,Courthouse
+454,10/27/2017,0,0,1,0,0,Courthouse
+455,10/27/2017,0,0,1,1,1,Clarendon
+456,10/27/2017,0,1,0,0,0,Clarendon
+457,10/27/2017,0,0,1,1,1,Clarendon
+458,10/27/2017,0,0,1,1,0,Clarendon
+459,10/27/2017,1,0,0,0,0,Clarendon
+460,10/27/2017,0,0,1,0,0,Clarendon
+461,10/27/2017,0,1,0,0,0,Clarendon
+462,10/27/2017,0,0,1,1,0,Clarendon
+463,10/27/2017,0,1,0,0,0,Clarendon
+464,10/27/2017,1,0,0,0,0,Clarendon
+465,10/27/2017,0,0,1,1,1,Clarendon
+466,10/27/2017,1,0,0,0,0,Clarendon
+467,10/27/2017,0,1,0,0,0,Virginia Square
+468,10/27/2017,0,0,1,1,0,Virginia Square
+469,10/27/2017,0,0,1,0,0,Virginia Square
+470,10/27/2017,1,0,0,0,0,Virginia Square
+471,10/27/2017,0,0,1,1,0,Virginia Square
+472,10/27/2017,0,0,1,1,1,Virginia Square
+473,10/27/2017,0,0,1,1,0,Virginia Square
+474,10/27/2017,0,0,1,1,1,Virginia Square
+475,10/27/2017,0,1,0,0,0,Virginia Square
+476,10/27/2017,0,1,0,0,0,Virginia Square
+477,10/27/2017,0,0,1,1,0,Virginia Square
+478,10/27/2017,0,0,1,1,0,Vienna
+479,10/27/2017,1,0,0,0,0,Vienna
+480,10/27/2017,0,0,1,1,1,Vienna
+481,10/27/2017,0,0,1,1,1,Vienna
+482,10/27/2017,0,0,1,1,0,Vienna
+483,10/27/2017,0,0,1,1,1,Vienna
+484,10/27/2017,0,0,1,1,1,Vienna
+485,10/27/2017,1,0,0,0,0,Vienna
+486,10/27/2017,0,1,0,0,0,Vienna
+487,10/27/2017,1,0,0,0,0,Vienna
+488,10/27/2017,0,0,1,0,0,Vienna
+489,10/27/2017,0,0,1,1,1,Vienna
+490,10/27/2017,0,1,0,0,0,Vienna
+491,10/27/2017,0,0,1,0,0,Vienna
+492,10/30/2017,0,0,1,1,0,Crystal City
+493,10/30/2017,0,0,1,0,0,Crystal City
+494,10/30/2017,0,0,1,1,0,Crystal City
+495,10/30/2017,0,1,0,0,0,Crystal City
+496,10/30/2017,1,0,0,0,0,Crystal City
+497,10/30/2017,1,0,0,0,0,Crystal City
+498,10/30/2017,0,0,1,1,1,Crystal City
+499,10/30/2017,0,0,1,0,0,Crystal City
+500,10/30/2017,0,0,1,1,0,Crystal City
+501,10/30/2017,0,0,1,1,0,Crystal City
+502,10/30/2017,0,1,0,0,0,Crystal City
+503,10/30/2017,0,1,0,0,0,Crystal City
+504,10/30/2017,0,0,1,1,1,Pentagon City
+505,10/30/2017,0,0,1,0,0,Pentagon City
+506,10/30/2017,0,1,0,0,0,Pentagon City
+507,10/30/2017,0,0,1,1,0,Pentagon City
+508,10/30/2017,0,0,1,1,0,Pentagon City
+509,10/30/2017,0,0,1,1,0,Pentagon City
+510,10/30/2017,1,0,0,0,0,Pentagon City
+511,10/30/2017,0,0,1,1,1,Pentagon City
+512,10/30/2017,0,0,1,1,0,Pentagon City
+513,10/30/2017,0,0,1,1,0,Pentagon City
+514,10/30/2017,0,0,1,1,1,Pentagon City
+515,10/30/2017,0,0,1,1,0,Pentagon
+516,10/30/2017,0,1,0,0,0,Pentagon
+517,10/30/2017,1,0,0,0,0,Pentagon
+518,10/30/2017,0,0,1,0,0,Pentagon
+519,10/30/2017,0,0,1,1,0,Pentagon
+520,10/30/2017,0,0,1,1,0,Pentagon
+521,10/30/2017,0,0,1,1,1,Pentagon
+522,10/30/2017,1,0,0,0,0,Pentagon
+523,10/30/2017,0,0,1,1,0,Pentagon
+524,10/30/2017,0,0,1,1,0,Pentagon
+525,10/30/2017,1,0,0,0,0,Pentagon
+526,10/30/2017,0,1,0,0,0,Pentagon
+527,10/30/2017,0,0,1,1,1,Arlington Cemetery
+528,10/30/2017,0,0,1,1,0,Arlington Cemetery
+529,10/30/2017,0,0,1,0,0,Arlington Cemetery
+530,10/30/2017,0,0,1,1,0,Arlington Cemetery
+531,10/30/2017,0,0,1,0,0,Arlington Cemetery
+532,10/30/2017,0,0,1,1,0,Arlington Cemetery
+533,10/30/2017,0,0,1,1,1,Arlington Cemetery
+534,10/30/2017,0,0,1,1,0,Arlington Cemetery
+535,10/30/2017,0,0,1,0,0,Arlington Cemetery
+536,10/30/2017,0,0,1,1,0,Dupont Circle
+537,10/30/2017,0,1,0,0,0,Dupont Circle
+538,10/30/2017,0,1,0,0,0,Dupont Circle
+539,10/30/2017,0,0,1,1,0,Dupont Circle
+540,10/30/2017,1,0,0,0,0,Dupont Circle
+541,10/30/2017,0,0,1,1,1,Dupont Circle
+542,10/30/2017,0,0,1,1,0,Dupont Circle
+543,10/30/2017,0,1,0,0,0,Dupont Circle
+544,10/30/2017,0,0,1,0,0,Dupont Circle
+545,10/30/2017,1,0,0,0,0,Dupont Circle
+546,10/30/2017,1,0,0,0,0,Dupont Circle
+547,10/30/2017,0,0,1,1,1,Dupont Circle
+548,10/30/2017,0,0,1,1,0,Dupont Circle
+549,10/30/2017,0,1,0,0,0,Dupont Circle
+550,10/30/2017,0,0,1,0,0,Federal Center
+551,10/30/2017,0,0,1,1,1,Federal Center
+552,10/30/2017,0,0,1,1,0,Federal Center
+553,10/30/2017,0,1,0,0,0,Federal Center
+554,10/30/2017,0,0,1,1,0,Federal Center
+555,10/30/2017,0,1,0,0,0,Federal Center
+556,10/30/2017,0,1,0,0,0,Federal Center
+557,10/30/2017,0,0,1,0,0,Federal Center
+558,10/30/2017,0,0,1,1,1,Federal Center
+559,10/30/2017,0,1,0,0,0,Federal Center
+560,10/30/2017,1,0,0,0,0,Capital South
+561,10/30/2017,1,0,0,0,0,Capital South
+562,10/30/2017,0,0,1,1,1,Capital South
+563,10/30/2017,0,0,1,1,0,Capital South
+564,10/30/2017,1,0,0,0,0,Capital South
+565,10/30/2017,0,0,1,1,0,Capital South
+566,10/30/2017,0,1,0,0,0,Capital South
+567,10/30/2017,0,0,1,1,1,Capital South
+568,10/30/2017,0,0,1,1,0,Capital South
+569,10/31/2017,0,0,1,1,1,Navy Yard
+570,10/31/2017,1,0,0,0,0,Navy Yard
+571,10/31/2017,0,0,1,1,0,Navy Yard
+572,10/31/2017,0,0,1,1,0,Navy Yard
+573,10/31/2017,0,0,1,0,0,Navy Yard
+574,10/31/2017,0,1,0,0,0,Navy Yard
+575,10/31/2017,0,0,1,1,0,Navy Yard
+576,10/31/2017,0,0,1,1,0,Navy Yard
+577,10/31/2017,0,0,1,1,0,Navy Yard
+578,10/31/2017,0,0,1,0,0,Navy Yard
+579,10/31/2017,1,0,0,0,0,Navy Yard
+580,10/31/2017,0,0,1,1,1,Navy Yard
+581,10/31/2017,1,0,0,0,0,Navy Yard
+582,10/31/2017,0,0,1,1,0,Waterfront
+583,10/31/2017,0,0,1,1,0,Waterfront
+584,10/31/2017,1,0,0,0,0,Waterfront
+585,10/31/2017,1,0,0,0,0,Waterfront
+586,10/31/2017,0,0,1,1,0,Waterfront
+587,10/31/2017,0,0,1,1,1,Waterfront
+588,10/31/2017,1,0,0,0,0,Waterfront
+589,10/31/2017,0,1,0,0,0,Waterfront
+590,10/31/2017,0,0,1,1,0,Waterfront
+591,10/31/2017,0,0,1,1,0,Waterfront
+592,10/31/2017,0,1,0,0,0,Waterfront
+593,10/31/2017,1,0,0,0,0,Waterfront
+594,10/31/2017,0,0,1,1,0,Waterfront
+595,10/31/2017,0,0,1,0,0,Waterfront
+596,10/31/2017,0,0,1,1,0,Rosslyn
+597,10/31/2017,0,0,1,1,1,Rosslyn
+598,10/31/2017,0,0,1,0,0,Rosslyn
+599,10/31/2017,0,0,1,1,0,Rosslyn
+600,10/31/2017,0,1,0,0,0,Rosslyn
+601,10/31/2017,1,0,0,0,0,Rosslyn
+602,10/31/2017,1,0,0,0,0,Rosslyn
+603,10/31/2017,0,0,1,1,0,Rosslyn
+604,10/31/2017,0,0,1,1,1,Courthouse
+605,10/31/2017,1,0,0,0,0,Courthouse
+606,10/31/2017,0,0,1,1,0,Courthouse
+607,10/31/2017,0,0,1,1,1,Courthouse
+608,10/31/2017,0,1,0,0,0,Courthouse
+609,10/31/2017,0,0,1,0,0,Courthouse
+610,10/31/2017,0,1,0,0,0,Courthouse
+611,10/31/2017,0,0,1,1,1,Clarendon
+612,10/31/2017,1,0,0,0,0,Clarendon
+613,10/31/2017,0,0,1,0,0,Clarendon
+614,10/31/2017,1,0,0,0,0,Clarendon
+615,10/31/2017,0,0,1,1,0,Clarendon
+616,10/31/2017,0,0,1,0,0,Clarendon
+617,10/31/2017,0,0,1,0,0,Virginia Square
+618,10/31/2017,0,0,1,1,0,Virginia Square
+619,10/31/2017,0,0,1,1,0,Virginia Square
+620,10/31/2017,1,0,0,0,0,Virginia Square
+621,10/31/2017,0,0,1,1,0,Virginia Square
+622,10/31/2017,0,0,1,0,0,Virginia Square
+623,10/31/2017,0,0,1,1,0,Virginia Square
+624,10/31/2017,0,0,1,1,0,Vienna
+625,10/31/2017,1,0,0,0,0,Vienna
+626,10/31/2017,0,0,1,1,0,Vienna
+627,10/31/2017,0,0,1,1,1,Vienna
+628,10/31/2017,0,0,1,1,0,Vienna
+629,10/31/2017,1,0,0,0,0,Vienna
+630,10/31/2017,0,0,1,0,0,Vienna
+631,10/31/2017,0,0,1,0,0,Vienna
+632,10/31/2017,0,0,1,1,1,Vienna
+633,10/31/2017,0,0,1,1,0,Vienna
+634,10/31/2017,0,0,1,1,1,Vienna
+635,10/31/2017,1,0,0,0,0,Vienna
+636,11/1/2017,1,0,0,0,0,Capital South
+637,11/1/2017,0,0,1,1,0,Capital South
+638,11/1/2017,0,0,1,0,0,Capital South
+639,11/1/2017,0,0,1,1,1,Capital South
+640,11/1/2017,1,0,0,0,0,Capital South
+641,11/1/2017,0,0,1,0,0,Capital South
+642,11/1/2017,1,0,0,0,0,Capital South
+643,11/1/2017,0,0,1,1,1,Capital South
+644,11/1/2017,0,0,1,0,0,Federal Center
+645,11/1/2017,0,0,1,1,0,Federal Center
+646,11/1/2017,1,0,0,0,0,Federal Center
+647,11/1/2017,0,0,1,1,1,Federal Center
+648,11/1/2017,0,0,1,1,0,Federal Center
+649,11/1/2017,0,1,0,0,0,Federal Center
+650,11/1/2017,0,0,1,1,0,Federal Center
+651,11/1/2017,0,0,1,1,0,Federal Center
+652,11/1/2017,0,0,1,0,0,Navy Yard
+653,11/1/2017,1,0,0,0,0,Navy Yard
+654,11/1/2017,0,1,0,0,0,Navy Yard
+655,11/1/2017,0,0,1,1,0,Navy Yard
+656,11/1/2017,0,0,1,1,1,Navy Yard
+657,11/1/2017,0,1,0,0,0,Navy Yard
+658,11/1/2017,0,0,1,1,0,Navy Yard
+659,11/1/2017,0,0,1,1,0,Waterfront
+660,11/1/2017,0,1,0,0,0,Waterfront
+661,11/1/2017,0,0,1,1,1,Waterfront
+662,11/1/2017,1,0,0,0,0,Waterfront
+663,11/1/2017,0,1,0,0,0,Waterfront
+664,11/1/2017,0,0,1,1,0,Waterfront
+665,11/1/2017,0,0,1,0,0,Waterfront
+666,11/1/2017,0,0,1,1,1,Crystal City
+667,11/1/2017,0,0,1,0,0,Crystal City
+668,11/1/2017,1,0,0,0,0,Crystal City
+669,11/1/2017,0,0,1,1,0,Crystal City
+670,11/1/2017,1,0,0,0,0,Crystal City
+671,11/1/2017,0,0,1,1,1,Crystal City
+672,11/1/2017,0,0,1,1,0,Crystal City
+673,11/1/2017,0,0,1,1,0,Pentagon City
+674,11/1/2017,1,0,0,0,0,Pentagon City
+675,11/1/2017,0,0,1,1,1,Pentagon City
+676,11/1/2017,1,0,0,0,0,Pentagon City
+677,11/1/2017,0,0,1,1,1,Pentagon City
+678,11/1/2017,0,1,0,0,0,Pentagon City
+679,11/1/2017,0,0,1,1,0,Pentagon City
+680,11/1/2017,1,0,0,0,0,Pentagon
+681,11/1/2017,0,0,1,0,0,Pentagon
+682,11/1/2017,0,0,1,1,0,Pentagon
+683,11/1/2017,1,0,0,0,0,Pentagon
+684,11/1/2017,0,0,1,1,0,Pentagon
+685,11/1/2017,0,1,0,0,0,Pentagon
+686,11/1/2017,0,0,1,0,0,Arlington Cemetery
+687,11/1/2017,0,0,1,1,0,Arlington Cemetery
+688,11/1/2017,0,1,0,0,0,Arlington Cemetery
+689,11/1/2017,0,0,1,1,1,Arlington Cemetery
+690,11/1/2017,0,1,0,0,0,Dupont Circle
+691,11/1/2017,0,0,1,1,0,Dupont Circle
+692,11/1/2017,0,0,1,1,0,Dupont Circle
+693,11/1/2017,1,0,0,0,0,Dupont Circle
+694,11/1/2017,0,0,1,1,0,Dupont Circle
+695,11/1/2017,1,0,0,0,0,Dupont Circle
+696,11/1/2017,0,0,1,1,1,Vienna
+697,11/1/2017,0,0,1,1,0,Vienna
+698,11/1/2017,0,0,1,1,1,Vienna
+699,11/1/2017,1,0,0,0,0,Vienna
+700,11/1/2017,0,0,1,1,0,Vienna
+701,11/1/2017,0,1,0,0,0,Vienna
